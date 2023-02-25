@@ -1,0 +1,36 @@
+footer{
+    background-color: #092b4d;
+    padding: 10px 0 80px 40px;
+    width: 97.5%;
+    bottom: 0px; 
+    height: 180px; 
+    width: 96.5vw;
+    margin: 200px 0 -20px -15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+
+.content h5 {
+    font-size: larger;
+}
+.content a{
+    text-decoration: none;
+    color: #fff;
+    font-size: medium;
+}
+
+.logo{
+    width: 15vw;
+    height: 20vh;
+    background-image: url("../../../assets/images/Logo-removebg-preview.png ");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 30px 0 0 0;
+}
+
